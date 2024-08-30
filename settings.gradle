@@ -1,2 +1,3 @@
 rootProject.name = 'nikolayzerkalov-leetcode'
+include 'two-sum'
 
