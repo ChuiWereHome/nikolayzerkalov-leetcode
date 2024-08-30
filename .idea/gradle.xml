@@ -10,6 +10,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/palindrome-number" />
+            <option value="$PROJECT_DIR$/task" />
             <option value="$PROJECT_DIR$/two-sum" />
           </set>
         </option>
