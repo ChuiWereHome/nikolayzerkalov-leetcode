@@ -5,12 +5,11 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleHome" value="$PROJECT_DIR$/../../../Gradle/gradle-6.6" />
+        <option name="gradleJvm" value="liberica-full-21" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/palindrome-number" />
-            <option value="$PROJECT_DIR$/task" />
             <option value="$PROJECT_DIR$/two-sum" />
           </set>
         </option>
